@@ -1,0 +1,15 @@
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\obj\Debug\net5.0\StudentManagement.Abstraction.csproj.AssemblyReference.cache
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\obj\Debug\net5.0\StudentManagement.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\obj\Debug\net5.0\StudentManagement.Abstraction.AssemblyInfoInputs.cache
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\obj\Debug\net5.0\StudentManagement.Abstraction.AssemblyInfo.cs
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\obj\Debug\net5.0\StudentManagement.Abstraction.csproj.CoreCompileInputs.cache
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\bin\Debug\net5.0\StudentManagement.Abstraction.deps.json
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\bin\Debug\net5.0\StudentManagement.Abstraction.dll
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\bin\Debug\net5.0\ref\StudentManagement.Abstraction.dll
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\bin\Debug\net5.0\StudentManagement.Abstraction.pdb
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\bin\Debug\net5.0\Common.Helper.dll
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\bin\Debug\net5.0\Common.Helper.pdb
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\obj\Debug\net5.0\StudentManagement.Abstraction.csproj.CopyComplete
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\obj\Debug\net5.0\StudentManagement.Abstraction.dll
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\obj\Debug\net5.0\ref\StudentManagement.Abstraction.dll
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Abstraction\obj\Debug\net5.0\StudentManagement.Abstraction.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TmSucAD87OgO2iqDlp4RnXRG4wZzFIuC98QIDgIRRY7M7Rnf1ZVKfSZVG2nZzLhgpWoj65eAg2LdnbThUhnGjA==",
+  "success": true,
+  "projectFilePath": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\Common.Helper\\Common.Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

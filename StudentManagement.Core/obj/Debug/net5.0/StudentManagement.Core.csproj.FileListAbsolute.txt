@@ -1,0 +1,17 @@
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.csproj.AssemblyReference.cache
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.AssemblyInfoInputs.cache
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.AssemblyInfo.cs
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.csproj.CoreCompileInputs.cache
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\bin\Debug\net5.0\StudentManagement.Core.deps.json
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\bin\Debug\net5.0\StudentManagement.Core.dll
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\bin\Debug\net5.0\ref\StudentManagement.Core.dll
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\bin\Debug\net5.0\StudentManagement.Core.pdb
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\bin\Debug\net5.0\Common.Helper.dll
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\bin\Debug\net5.0\StudentManagement.Abstraction.dll
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\bin\Debug\net5.0\Common.Helper.pdb
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\bin\Debug\net5.0\StudentManagement.Abstraction.pdb
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.csproj.CopyComplete
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.dll
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\obj\Debug\net5.0\ref\StudentManagement.Core.dll
+C:\backend\StudentManagemnet\Rest\StudentManagement\StudentManagement.Core\obj\Debug\net5.0\StudentManagement.Core.pdb

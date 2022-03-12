@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\StudentManagement.Core\\StudentManagement.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\Common.Helper\\Common.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\Common.Helper\\Common.Helper.csproj",
+        "projectName": "Common.Helper",
+        "projectPath": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\Common.Helper\\Common.Helper.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\Common.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/365solutions/Property365/_packaging/Property365.Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\StudentManagement.Abstraction\\StudentManagement.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\StudentManagement.Abstraction\\StudentManagement.Abstraction.csproj",
+        "projectName": "StudentManagement.Abstraction",
+        "projectPath": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\StudentManagement.Abstraction\\StudentManagement.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\StudentManagement.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/365solutions/Property365/_packaging/Property365.Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\Common.Helper\\Common.Helper.csproj": {
+                "projectPath": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\Common.Helper\\Common.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\StudentManagement.Core\\StudentManagement.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\StudentManagement.Core\\StudentManagement.Core.csproj",
+        "projectName": "StudentManagement.Core",
+        "projectPath": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\StudentManagement.Core\\StudentManagement.Core.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\StudentManagement.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/365solutions/Property365/_packaging/Property365.Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\Common.Helper\\Common.Helper.csproj": {
+                "projectPath": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\Common.Helper\\Common.Helper.csproj"
+              },
+              "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\StudentManagement.Abstraction\\StudentManagement.Abstraction.csproj": {
+                "projectPath": "C:\\backend\\StudentManagemnet\\Rest\\StudentManagement.API\\StudentManagement.Abstraction\\StudentManagement.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
